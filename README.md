@@ -1,4 +1,4 @@
-<img src="./src/assets/circles.png" height="250px" align="right"/>
+
 
 <h1 align="center">BOOK Ecommerce STORE USING REACTJS </h1>
 
@@ -8,10 +8,10 @@
     Through this book store the users can search for a book by its title and
     later can add to the shopping cart and finally purchase using credit card transaction.
     
- ##   [Live App Demo](https://akshatbookstore.netlify.app/)
+ ##   [Live App Demo](https://vercel.com/henjesh12s-projects/book-shop)
  
  
- ![Alt text](https://github.com/Akshatjalan/Book-store-Reactjs/blob/main/src/assets/Web.jpg?raw=true "Main Page")
+ ![Alt text](https://github.com/henjesh12/Book-Shop"Main Page")
 
 # Tools Used
 
@@ -48,23 +48,23 @@ See the section about [deployment](#deployment) for more information.
 
 ## Contact 
  <h3 align="center">
-  <code> Akshat Jalan </code>
+  <code> Henjesh K O </code>
 </h3>
   <p align="center"> 
 
-  <a href="https://github.com/Akshatjalan">
-    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Github.svg" width="30" height="30" hspace="20">
+  <a href="https://github.com/henjesh12">
+    <img src="./images/github.png" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://www.linkedin.com/in/akshat-jalan/">
-    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/LinkedIN.svg" width="30" height="30" hspace="20">
+  <a href="https://www.linkedin.com/feed/">
+    <img src="./images/linkdin.png" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://www.instagram.com/akshatxjalan/">
-    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Instagram.svg" width="30" height="30" hspace="20">
+  <a href="https://www.instagram.com/__henjesh__35/">
+    <img src="./images/insta.jpg" width="30" height="30" hspace="20">
   </a>
-    <a href="mailto:jalanakshat2@gmail.com">
-    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Gmail.svg"  width="30" height="30" hspace="20">
+    <a href="mailto:henjeshko@gmail.com">
+    <img src="./images/mail.png"  width="30" height="30" hspace="20">
   </a>
 
 </p>
